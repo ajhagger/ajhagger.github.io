@@ -2,6 +2,11 @@ body {
     background-color: #fa8072;
 }
 
+h1 {
+    padding: 8px;
+    border: solid 1px black;
+}
+
 .div-1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 80px;
@@ -13,4 +18,16 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 80px;
     color: black;
+}
+
+.div-3{
+    padding: 10px;
+    border: solid 2px black;
+}
+
+.container{
+    display: flex;
+}
+.flex-item{
+    flex-grow: 1;
 }
