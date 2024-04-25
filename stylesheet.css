@@ -1,5 +1,5 @@
 body {
-    background-color: #fa8072;
+    background-color: #ffc0cb;
 }
 
 h1 {
@@ -21,9 +21,9 @@ h1 {
 }
 
 .div-3{
-    font-size: 16px;
-    padding-left: 32px;
-    padding-right: 32px;
+    font-size: 18px;
+    padding-left: 62px;
+    padding-right: 62px;
     padding-top: 12px;
     padding-bottom: 12px;
     border-left: solid 1px black;
@@ -35,6 +35,7 @@ h1 {
 
 .container{
     display: flex;
+    padding-left: 8px;
 }
 .flex-item{
     flex-grow: 1;
