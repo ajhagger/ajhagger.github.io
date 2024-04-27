@@ -4,7 +4,6 @@
 
 h1 {
     padding: 8px;
-    border: solid 1px black;
 }
 
 .div-1 {
@@ -40,4 +39,8 @@ h1 {
 }
 .flex-item{
     flex-grow: 1;
+}
+
+a {
+    font-size: 32px;
 }
