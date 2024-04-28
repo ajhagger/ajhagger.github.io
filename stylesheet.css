@@ -32,10 +32,11 @@ h1 {
     display: flex;
     background-color: #c6e2ff;
     height: 8%;
-    width: 100%;
-    padding-left: 275px;
-    padding-right: 275px;
+    width: 80%;
+    padding-left: 120px;
+    padding-right:120px;
     border: solid 2px black;
+    border-radius: 15px;
 }
 .flex-item{
     flex-grow: 1;
@@ -43,4 +44,10 @@ h1 {
 
 a {
     font-size: 32px;
+}
+.git-container {
+    border: solid 2px black;
+    border-radius: 15px;
+    background-color: #CED0CE;
+    width: 200px;
 }
